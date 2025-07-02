@@ -1,12 +1,12 @@
-### Simplistic DIAL chat client
+# Simplistic python DIAL chat client
 
-# About
+### About
 
 This project is a simplistic Python client for calling DIAL chat service. 
 It expects users' inputs (questions) in command line & sends them to DIAL.
 Once DIAL responds, this python client prints the response to terminal
 
-# How to run:
+### How to run:
 Save this code to a file, e.g., dial_chat.py.
 Install the requests library if you haven't:
 `pip install requests`
